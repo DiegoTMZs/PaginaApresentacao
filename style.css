@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(240, 240, 240);
+}
+
+span {
+    color: rgb(58, 99, 176);
+}
+
+header {
+    padding: 1px;
+    background-color: rgb(114, 158, 219);
+}
+
+header h1 {
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    margin: 1em;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+section h2 {
+    margin-left: 2%;
+}
+
+section p {
+    margin: 1rem;
+    text-align: justify;
+}
+
+.imagens {
+    display: flex;
+    margin-left: 100px;
+}
+
+.img1 {
+    margin: 5%;
+}
+
+.img2 {
+    margin: 5%;
+}
